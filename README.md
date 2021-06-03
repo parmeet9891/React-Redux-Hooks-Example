@@ -3,7 +3,7 @@
 This is a recreation of what wes bos has taught in his redux course.
 https://learnredux.com/
 
-Open [Learn Redux](https://github.com/wesbos/Learn-Redux-Starter-Files) for wes bos repository.
+Open [Learn Redux](https://github.com/wesbos/Learn-Redux-Starter-Files/tree/master/learn-redux) for wes bos repository.
 
 Although concepts are same, just the syntax and way of writing the stuff got easier. Few of the modules got depreciated or removed in the updated versions, hence I used
 updated techniques.
